@@ -23,7 +23,7 @@
     {
       "id": "6",
       "value": "Complete Redux",
-      "completed": false
+      "completed": true
     }
   ]
 }
