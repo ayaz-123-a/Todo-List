@@ -26,17 +26,6 @@ A minimal yet powerful To-Do List application built with **React**, styled using
    cd your-repo-name
 
 
-📁 Project Structure
-/src
-  ├── app/
-  ├── components/
-  ├── features/todos/
-  ├── services/api.js
-  ├── App.jsx
-  └── main.jsx
-db.json
-
-
 📷 Screenshots
 ![alt text](image.png)
 
@@ -46,11 +35,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 📄 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
 
----
 
 Let me know if you want me to include badges, deploy links (like Vercel or Netlify), or update it with your GitHub repo name.
 
